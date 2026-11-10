@@ -1,16 +1,45 @@
-## Hi there 👋
+# Merhaba, ben Barış Mıhçı 👋
 
-<!--
-**BMihci/Bmihci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oyun geliştirme • Küçük işletmeler için yazılım çözümleri • Prompt engineering**
 
-Here are some ideas to get you started:
+Fikirleri çalışan prototiplere çeviriyorum: sevimli mobil oyunlar, kafeler gibi küçük işletmelerin işine yarayan araçlar ve yapay zekâyı verimli kullanmanın yolları.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎮 Oyunlar
+
+| Proje | Açıklama | Bağlantı |
+|---|---|---|
+| **Mesafeler Uçar Gider** | Uzak mesafe temalı, sevimli (cozy) mobil merge oyunu | [mesafeler-ucar-gider](https://github.com/BMihci/mesafeler-ucar-gider) |
+| **Recipe Book of Barista** | Hikâye odaklı, sevimli Android slot/arcade oyunu | [recipes-of-barista](https://github.com/BMihci/recipes-of-barista) |
+
+## ☕ Küçük işletmeler için yazılım
+
+| Proje | Açıklama | Bağlantı |
+|---|---|---|
+| **Kafe Satış Tahmini** | Makine öğrenmesiyle kafelerde bazı ürünlerin satışını tahmin eden uygulama | [CafePredictionApp](https://github.com/BMihci/CafePredictionApp) |
+
+## 🧠 Prompt engineering
+
+Yapay zekâ ile oyun tasarımı, kod ve iş akışı geliştirirken kullandığım prompt kalıplarını ve notları burada paylaşacağım. *(Yakında)*
+
+---
+
+## 🌱 Şu an
+
+- Oyun geliştirme (C# öğreniyorum)
+- Haftalık küçük projeler ve günlük commit rutini
+
+## 📅 Bu hafta
+
+- [ ] Çarşamba: Mesafeler Uçar Gider için README, ekran görüntüleri ve oynanabilir demo
+- [ ] Perşembe: Profil bağlantılarını güncelle ve repoyu sabitle (pin)
+- [ ] Cuma: Recipe Book of Barista için README ve demo
+- [ ] Cumartesi: CafePredictionApp README'si (veri, kurulum, örnek çıktı)
+- [ ] Pazar: Haftalık kapanış ve yeni hafta planı
+
+*(Her pazar güncellenir)*
+
+---
+
+<sub>Yapay zekâ destekli geliştirme ile üretiyorum.</sub>
