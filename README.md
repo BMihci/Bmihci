@@ -35,7 +35,7 @@ Yapay zekâ ile oyun tasarımı, kod ve iş akışı geliştirirken kullandığ�
 - [X] Çarşamba: Mesafeler Uçar Gider için README, ekran görüntüleri ve oynanabilir demo
 - [X] Perşembe: Pomodoro + Görev Takipçisi
 - [X] Cuma: Recipe Book of Barista için README ve demo
-- [ ] Cumartesi: CafePredictionApp README'si (veri, kurulum, örnek çıktı)
+- [X] Cumartesi: CafePredictionApp README'si (veri, kurulum, örnek çıktı)
 - [ ] Pazar: Haftalık kapanış ve yeni hafta planı
 
 *(Her pazar güncellenir)*
