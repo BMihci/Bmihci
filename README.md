@@ -39,8 +39,8 @@ Yapay zekâ ile oyun tasarımı, kod ve iş akışı geliştirirken kullandığ�
 ## 📅 Bu hafta (16-22 Kasım)
 
 - [X] Pazartesi: Profil güncellemesi
-- [ ] Salı: Kafe Stok ve Kasa Defteri (yeni mini uygulama)
-- [ ] Çarşamba: Uygulamayı yayınla
+- [X] Salı: Kafe Stok ve Kasa Defteri (yeni mini uygulama)
+- [X] Çarşamba: Uygulamayı yayınla
 - [ ] Perşembe: Prompt kütüphanesi, ilk 5 prompt
 - [ ] Cuma: Kütüphaneye yeni prompt
 - [ ] Cumartesi: Kingfool güvenlik iyileştirmeleri
