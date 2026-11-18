@@ -15,9 +15,10 @@ Fikirleri çalışan prototiplere çeviriyorum: sevimli mobil oyunlar, kafeler g
 
 ## ☕ Küçük işletmeler için yazılım
 
-| Proje | Açıklama | Kod |
-|---|---|---|
-| **Kingfool Inc. — Kafe Satış Tahmini** | Makine öğrenmesiyle günlük ürün satışını tahmin eder; hammadde ihtiyacı, menü kârlılığı ve günlük işletme bülteni üretir. Masaüstü, REST API ve Android. | [CafePredictionApp](https://github.com/BMihci/CafePredictionApp) |
+| Proje | Açıklama | Dene | Kod |
+|---|---|---|---|
+| **Kingfool Inc. — Kafe Satış Tahmini** | Makine öğrenmesiyle günlük ürün satışını tahmin eder; hammadde ihtiyacı, menü kârlılığı ve günlük işletme bülteni üretir. Masaüstü, REST API ve Android. | | [CafePredictionApp](https://github.com/BMihci/CafePredictionApp) |
+| **Kafe Stok ve Kasa Defteri** | Telefonda çalışan satış, gider, gün sonu kasa sayımı ve stok takibi. Azalan stoğu uyarır, Excel'e aktarır, internetsiz çalışır. | [▶ Aç](https://bmihci.github.io/kafe-stok-kasa-defteri/) | [kafe-stok-kasa-defteri](https://github.com/BMihci/kafe-stok-kasa-defteri) |
 
 ## 🧰 Küçük araçlar
 
