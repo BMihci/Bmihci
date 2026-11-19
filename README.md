@@ -28,7 +28,9 @@ Fikirleri çalışan prototiplere çeviriyorum: sevimli mobil oyunlar, kafeler g
 
 ## 🧠 Prompt engineering
 
-Yapay zekâ ile oyun tasarımı, kod ve iş akışı geliştirirken kullandığım prompt kalıplarını ve notları burada paylaşacağım. *(Bu hafta geliyor)*
+Yapay zekâ ile oyun, uygulama ve küçük işletme yazılımı geliştirirken gerçekten kullandığım prompt kalıpları: devir notu, README hazırlatma, push öncesi gizli bilgi taraması, botla oyun denetimi ve haftalık plan.
+
+**[📚 Prompt Kütüphanesi →](https://github.com/BMihci/prompt-kutuphanesi)**
 
 ---
 
