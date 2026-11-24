@@ -39,14 +39,14 @@ Yapay zekâ ile oyun, uygulama ve küçük işletme yazılımı geliştirirken g
 - Oyun geliştirme (C# öğreniyorum)
 - Haftalık küçük projeler ve günlük commit rutini
 
-## 📅 Bu hafta (16-22 Kasım)
+## 📅 Bu hafta (23-29 Kasım)
 
-- [X] Pazartesi: Profil güncellemesi
-- [X] Salı: Kafe Stok ve Kasa Defteri (yeni mini uygulama)
-- [X] Çarşamba: Uygulamayı yayınla
-- [ ] Perşembe: Prompt kütüphanesi, ilk 5 prompt
-- [ ] Cuma: Kütüphaneye yeni prompt
-- [ ] Cumartesi: Kingfool güvenlik iyileştirmeleri
+- [x] Pazartesi: Profil güncellemesi ve geçen haftanın kapanışı
+- [x] Salı: Prompt kütüphanesine yeni prompt (06 · Tek dosya web uygulaması)
+- [ ] Çarşamba: Kingfool: şifreler özetlenerek saklanıyor
+- [ ] Perşembe: Kafe Stok ve Kasa Defteri v1.1: gün sonu raporunu paylaşma
+- [ ] Cuma: Prompt kütüphanesine yeni prompt (07)
+- [ ] Cumartesi: Kingfool tarayıcı demosu
 - [ ] Pazar: Haftalık kapanış ve yeni hafta planı
 
 *(Her pazartesi güncellenir)*
