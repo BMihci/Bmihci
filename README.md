@@ -45,7 +45,7 @@ Yapay zekâ ile oyun, uygulama ve küçük işletme yazılımı geliştirirken g
 - [x] Salı: Prompt kütüphanesine yeni prompt (06 · Tek dosya web uygulaması)
 - [x] Çarşamba: Kingfool: şifreler özetlenerek saklanıyor
 - [x] Perşembe: Kafe Stok ve Kasa Defteri v1.1: gün sonu raporunu paylaşma
-- [ ] Cuma: Prompt kütüphanesine yeni prompt (07)
+- [x] Cuma: Prompt kütüphanesine yeni prompt (07)
 - [ ] Cumartesi: Kingfool tarayıcı demosu
 - [ ] Pazar: Haftalık kapanış ve yeni hafta planı
 
