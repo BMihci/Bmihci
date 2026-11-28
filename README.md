@@ -17,7 +17,7 @@ Fikirleri çalışan prototiplere çeviriyorum: sevimli mobil oyunlar, kafeler g
 
 | Proje | Açıklama | Dene | Kod |
 |---|---|---|---|
-| **Kingfool Inc. — Kafe Satış Tahmini** | Makine öğrenmesiyle günlük ürün satışını tahmin eder; hammadde ihtiyacı, menü kârlılığı ve günlük işletme bülteni üretir. Masaüstü, REST API ve Android. | Denemeye kapalı | [CafePredictionApp](https://github.com/BMihci/CafePredictionApp) |
+| **Kingfool Inc. — Kafe Satış Tahmini** | Makine öğrenmesiyle günlük ürün satışını tahmin eder; hammadde ihtiyacı, menü kârlılığı ve günlük işletme bülteni üretir. Masaüstü, REST API ve Android. | [▶ Dene](https://bmihci.github.io/CafePredictionApp/demo/) | [CafePredictionApp](https://github.com/BMihci/CafePredictionApp) |
 | **Kafe Stok ve Kasa Defteri** | Telefonda çalışan satış, gider, gün sonu kasa sayımı ve stok takibi. Azalan stoğu uyarır, Excel'e aktarır, internetsiz çalışır. | [▶ Aç](https://bmihci.github.io/kafe-stok-kasa-defteri/) | [kafe-stok-kasa-defteri](https://github.com/BMihci/kafe-stok-kasa-defteri) |
 
 ## 🧰 Küçük araçlar
@@ -46,7 +46,7 @@ Yapay zekâ ile oyun, uygulama ve küçük işletme yazılımı geliştirirken g
 - [x] Çarşamba: Kingfool: şifreler özetlenerek saklanıyor
 - [x] Perşembe: Kafe Stok ve Kasa Defteri v1.1: gün sonu raporunu paylaşma
 - [x] Cuma: Prompt kütüphanesine yeni prompt (07)
-- [ ] Cumartesi: Kingfool tarayıcı demosu
+- [x] Cumartesi: Kingfool tarayıcı demosu
 - [ ] Pazar: Haftalık kapanış ve yeni hafta planı
 
 *(Her pazartesi güncellenir)*
